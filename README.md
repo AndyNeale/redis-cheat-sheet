@@ -1,2 +1,3 @@
-# redis-cheat-sheet
-Redis Cheat Sheet
+# Redis Cheat Sheet
+
+Redis cheat sheet, created in Microsoft Word 2010.
